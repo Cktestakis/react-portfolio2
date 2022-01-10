@@ -1,11 +1,11 @@
-import React from "react";
-import movieMania from "../images/MovieMania.png";
-import weatherDashboard from "../images/Weather-Dashboard.png";
-import teamProfileGenerator from "../images/Team-Profile-Generator.png";
-import workdayScheduler from ".../images/Workday-Scheduler.png";
-import codeQuiz from "../images/Code Quiz Test.gif";
+import React from 'react';
+import movieMania from '../images/MovieMania.png';
+import weatherDashboard from '../images/Weather-Dashboard.png';
+import teamProfileGenerator from '../images/Team-Profile-Generator.png';
+import workdayScheduler from '.../images/Workday-Scheduler.png';
+import codeQuiz from '../images/Code Quiz Test.gif';
 
-import ProjectCard from "./ProjectCard";
+import ProjectCard from './ProjectCard';
 
 const projects = [
   {
