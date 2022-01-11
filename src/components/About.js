@@ -8,7 +8,7 @@ export default function About() {
         <img id="selfImg" src={self} alt="me"></img>
         <div className="bio">
           <h1 className="opening-line">
-            Hello! My name is Cody, and I'm a Web Developer in Charlotte, NC.
+            Hello, my name is Cody Ktestakis!
           </h1>
           <p className="aboutPara">
             I am a Full Stack Web Developer educated in the Full Stack Web

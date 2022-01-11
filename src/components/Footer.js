@@ -1,6 +1,6 @@
 import React from "react";
 
-// import resume from '../images'  ADD RESUME
+import resume from '../images/CodyKtestakisResume.pdf'
 
 export default function Footer() {
   return (
